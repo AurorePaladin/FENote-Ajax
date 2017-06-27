@@ -1,0 +1,23 @@
+{
+  "name": "fenote-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurorePaladin/FENote-Ajax.git"
+  },
+  "author": "AurorePaladin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurorePaladin/FENote-Ajax/issues"
+  },
+  "homepage": "https://github.com/AurorePaladin/FENote-Ajax#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}
